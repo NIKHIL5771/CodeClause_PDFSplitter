@@ -1,7 +1,7 @@
-#PDF Splitter
+PDF SPLITTER
 This is a simple Java application that allows users to split a PDF file into separate pages based on a user-defined page range. The split PDF files are then saved to a user-defined directory.
 
-#Features
+FEATURES
 Select a PDF file using a file chooser dialog.
 Define the range of pages to split.
 Choose the directory to save the split PDF files.
